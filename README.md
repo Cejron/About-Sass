@@ -14,7 +14,7 @@ Sass使用方法
 
  1.ruby -v 检验ruby是否安装成功
  
- ![1]()
+ ![1](https://github.com/Cejron/About-Sass/blob/master/screenshot/1.PNG)
  
  ---
 
@@ -22,7 +22,7 @@ Sass使用方法
 
 2.gem sources -l 或 gem sources
 
- ![2]()
+ ![2](https://github.com/Cejron/About-Sass/blob/master/screenshot/2.PNG)
 
 ---
 
@@ -30,7 +30,7 @@ Sass使用方法
 
 3.gem sources --remove https://rubygems.org/
 
- ![3]()
+ ![3](https://github.com/Cejron/About-Sass/blob/master/screenshot/3.PNG)
 
 ---
 
@@ -38,7 +38,7 @@ Sass使用方法
 
 4.gem sources -add https://gems.ruby-china.com/
 
- ![4]()
+ ![4](https://github.com/Cejron/About-Sass/blob/master/screenshot/4.PNG)
 
 ---
 
@@ -46,7 +46,7 @@ Sass使用方法
 
 5.gem sources -l 或 gem sources 
 
- ![5]()
+ ![5](https://github.com/Cejron/About-Sass/blob/master/screenshot/5.PNG)
 
 ---
 
