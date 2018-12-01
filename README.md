@@ -54,7 +54,7 @@ Sass使用方法
 
 //安装sass和compass
 
-6.gem install sass     gem install compass
+6.gem install sass  或   gem install compass(自带sass)
  
  ![6](https://github.com/Cejron/About-Sass/blob/master/screenshot/6.PNG)
   
